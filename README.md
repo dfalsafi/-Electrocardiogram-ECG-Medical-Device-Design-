@@ -1,5 +1,6 @@
-# -Electrocardiogram-ECG-Medical-Device-Design-Analog-Design-Testing-PIC24-Software-
+# 🫀 ECG Medical Device Made From Scratch
 We designed a group-made ECG (input signal connected using electrodes) device that captures and digitizes the human pulse displayed on a plot. It started as an LTSPICE analog circuit. Once the desired amplified output signal was confirmed we designed a custom PCB and used a PIC24 microcontroller's ADC to plot the real-time heartbeat data in Python.
+
 Overview
 This project is a custom-designed Electrocardiogram (ECG) device made entirely from scratch to capture, filter, and digitize the human pulse for real-time visualization. Moving from initial software simulation to a fully custom printed circuit board (PCB) and physical hardware assembly, our team successfully built a complete analog-to-digital signal pipeline. The final output is read by a PIC24 microcontroller and plotted in real-time on a computer.
 
