@@ -21,13 +21,11 @@ Output Buffering: The filtered signal passes through a final OPA333 amplifier to
 📸 Hardware & Simulation Gallery
 (Replace the links below with the actual paths to your images in your repository)
 
-![Analog Circuit Design](https://github.com/dfalsafi/Electrocardiogram_ECG_Medical_Device_Design/raw/main/Hardware/Analog%20Design%20%26%20LTSPICE%20Simulation/EKG_Danny-20260504T213633Z-3-001/Circuit_Design.png)
+[Analog Circuit Design](https://github.com/dfalsafi/Electrocardiogram_ECG_Medical_Device_Design/blob/main/Hardware/Analog%20Design%20%26%20LTSPICE%20Simulation/EKG_Danny-20260504T213633Z-3-001/Circuit_Design.png)
 
-![LTspice Simulation](https://github.com/dfalsafi/Electrocardiogram_ECG_Medical_Device_Design/raw/main/Hardware/Analog%20Design%20%26%20LTSPICE%20Simulation/EKG_Danny-20260504T213633Z-3-001/Output_Waveform.png)
+[LTspice Simulation](https://github.com/dfalsafi/Electrocardiogram_ECG_Medical_Device_Design/blob/main/Hardware/Analog%20Design%20%26%20LTSPICE%20Simulation/EKG_Danny-20260504T213633Z-3-001/Output_Waveform.png)
 
 [Altium PCB Schematic](https://github.com/dfalsafi/Electrocardiogram_ECG_Medical_Device_Design/blob/main/Hardware/Altium%20Schematic%20and%20PCB%20Design/Schematic_Prints.pdf)
-
-![Physical Hardware Assembly](path/to/hardware_photo.png)
 
 Software & Digital Processing
 Once the analog signal is cleaned and amplified by our custom circuit, it is passed to the digital domain for processing and visualization.
